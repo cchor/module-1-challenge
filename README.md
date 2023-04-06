@@ -8,4 +8,4 @@ We also cleaned up duplicate code in the CSS and edited the classes to match the
 
 https://cchor.github.io/module-1-challenge/
 
-<img src="./assets/images/finished-page.jpg">
+<img src="./assets/images/finished-page.png">
